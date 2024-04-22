@@ -13,6 +13,6 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/omarghandour/npmPackage1.git"
   }
 }
